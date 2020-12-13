@@ -1,0 +1,3 @@
+module PracticaResumen {
+	exports main;
+}
